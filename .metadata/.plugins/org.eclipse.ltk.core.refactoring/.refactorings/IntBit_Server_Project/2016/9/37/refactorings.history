@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.intbit.quiz.java&apos; to &apos;Quiz.java&apos;&#x0D;&#x0A;- Original project: &apos;IntBit_Server_Project&apos;&#x0D;&#x0A;- Original element: &apos;com.intbit.quiz.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.intbit.Quiz.java&apos;" description="Rename compilation unit &apos;quiz.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.intbit{quiz.java" name="Quiz.java" references="false" stamp="1473414949843" version="1.0"/>
+</session>
